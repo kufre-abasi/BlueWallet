@@ -98,6 +98,3 @@ android/app/.classpath
 android/app/.project
 fastlane/README.md
 fastlane/report.xml
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
